@@ -1,0 +1,19 @@
+C:\Users\Esteban\AppData\Local\Temporary Projects\CncSerialCom\bin\Debug\CncSerialCom.exe
+C:\Users\Esteban\AppData\Local\Temporary Projects\CncSerialCom\bin\Debug\CncSerialCom.pdb
+C:\Users\Esteban\AppData\Local\Temporary Projects\CncSerialCom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Esteban\AppData\Local\Temporary Projects\CncSerialCom\obj\x86\Debug\CncSerialCom.Properties.Resources.resources
+C:\Users\Esteban\AppData\Local\Temporary Projects\CncSerialCom\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Esteban\AppData\Local\Temporary Projects\CncSerialCom\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Esteban\AppData\Local\Temporary Projects\CncSerialCom\obj\x86\Debug\CncSerialCom.exe
+C:\Users\Esteban\AppData\Local\Temporary Projects\CncSerialCom\obj\x86\Debug\CncSerialCom.pdb
+C:\Users\Esteban\AppData\Local\Temporary Projects\CncSerialCom\obj\x86\Debug\CncSerialCom.MainForm.resources
+C:\Users\Esteban\documents\visual studio 2010\Projects\CncSerialCom\CncSerialCom\obj\x86\Debug\CncSerialCom.exe
+C:\Users\Esteban\documents\visual studio 2010\Projects\CncSerialCom\CncSerialCom\obj\x86\Debug\CncSerialCom.pdb
+C:\Users\Esteban\documents\visual studio 2010\Projects\CncSerialCom\CncSerialCom\bin\Debug\CncSerialCom.exe
+C:\Users\Esteban\documents\visual studio 2010\Projects\CncSerialCom\CncSerialCom\bin\Debug\CncSerialCom.pdb
+C:\Users\Esteban\documents\visual studio 2010\Projects\CncSerialCom\CncSerialCom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Esteban\documents\visual studio 2010\Projects\CncSerialCom\CncSerialCom\obj\x86\Debug\CncSerialCom.MainForm.resources
+C:\Users\Esteban\documents\visual studio 2010\Projects\CncSerialCom\CncSerialCom\obj\x86\Debug\CncSerialCom.Properties.Resources.resources
+C:\Users\Esteban\documents\visual studio 2010\Projects\CncSerialCom\CncSerialCom\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Esteban\documents\visual studio 2010\Projects\CncSerialCom\CncSerialCom\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Esteban\Documents\Visual Studio 2010\Projects\CncSerialCom\CncSerialCom\obj\x86\Debug\CncSerialCom.AboutBox.resources
